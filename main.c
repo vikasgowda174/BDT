@@ -5,4 +5,5 @@ fact();
 pal();
 prime();
 testnum();
+tri();
 }
