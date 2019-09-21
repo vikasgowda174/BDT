@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+void tri()
 {
     int i, j, rows;
     printf("Enter number of rows: ");
