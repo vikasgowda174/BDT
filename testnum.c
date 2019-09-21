@@ -3,7 +3,7 @@
 void testnum()
 {
     int num;
-    printf("\n\Enter any number: ");
+    printf("\n\ Enter any number: ");
     scanf("%d", &num);
     
 
@@ -20,5 +20,5 @@ void testnum()
         printf("Number is ZERO");
     }
 
-    //return 0;
+   //return 0;
 }
